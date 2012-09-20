@@ -2,12 +2,17 @@
 
 body {
 
-	background-color: rgb(00,66,00); 
-	color: gold;
-	
+	background-color: gold; 
+	color: Black;
+	 
 	
 	}
 h1{color: gold}
-#AndrewHeader{text-align: center;}
+#AndrewHeader{text-align: center;
+		color: black}
 
 #ResumeLink{color:white}
+
+.picturequalities{
+
+}
